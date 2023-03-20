@@ -69,6 +69,7 @@ instance/
 .scrapy
 
 # Sphinx documentation
+Cnblogs-Theme-SimpleMemory-2.1.2/
 docs/_build/
 
 # PyBuilder
